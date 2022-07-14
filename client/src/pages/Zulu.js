@@ -1,9 +1,10 @@
 import React from 'react'
+import '../styles/zulu.scss'
 
 export default function Zulu() {
   return (
     <div>
-    zulu
+      <h1> Zulu </h1>
     </div>
   )
 }

@@ -1,9 +1,12 @@
 import React from 'react'
+import '../styles/quote.scss'
 
-export default function Quote() {
+
+
+const Quote = () => {
   return (
-    <div>
-        quote
-    </div>
-  )
-}
+   <h1> Quote </h1>
+  );
+};
+
+export default Quote;

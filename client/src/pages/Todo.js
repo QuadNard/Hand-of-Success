@@ -1,9 +1,11 @@
 import React from 'react'
+import '../styles/todo.scss'
+
 
 export default function Todo() {
   return (
     <div>
-    todo
+    <h1> Todo </h1>
     </div>
   )
 }
